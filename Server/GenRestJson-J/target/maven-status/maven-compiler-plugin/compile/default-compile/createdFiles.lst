@@ -1,0 +1,3 @@
+generic/ws/server/EmbeddedServer.class
+generic/ws/restjson/services/GsonProvider.class
+generic/ws/restjson/services/Services.class
