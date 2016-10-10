@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MyFirstScene.unity
+- path: Assets/BetterScene.unity
   isLoaded: 1
   isActive: 1

@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ArmScript.cs" />
+     <Compile Include="Assets\RemoveArm.cs" />
      <Compile Include="Assets\Rotate.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity Hololens 5.4.0b18-HTP/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
